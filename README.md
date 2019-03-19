@@ -8,14 +8,6 @@
          <span>
              nibohan520@gmail.com
          </span>
-         ·
-         <span>
-             <a href="https://gitee.com/micasnaker">micasnaker</a>
-         </span>
-         ·
-         <span>
-             <a href="https://www.cnblogs.com/mica/">My Blog</a>
-         </span>
      </div>
  </center>
 
